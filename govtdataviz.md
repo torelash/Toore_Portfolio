@@ -7,3 +7,7 @@ This visualization can be found here
 
 An image showing government debt to GDP ratio can be seen below:
 <div class="flourish-embed flourish-chart" data-src="visualisation/8567613"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Debt Visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8567749"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

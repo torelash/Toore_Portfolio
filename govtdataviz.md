@@ -18,3 +18,5 @@ The first visualization is a simple bar chart. It simply shows the Debt to GDP f
 The second visualization is a grid of charts. This is very good simply because it can show all the counries and represents them over many years simultaneously. In this way, you do not lose either of your important vaariables. However, the one drawback of this method is that it is very hard too interpret. Data Scientist and visualizers will be able to interpret. However, it is likely a bridge too far for a layman. In addition, due to the large number of rows, the data is spread too wide and takes a lot of effort if used fr comparison.
 
 The final visualization I decided upon is a tree map. This helps to visualize the debt to GDP ratio by size. It also has the added advantage of being filterable by year. You can simply view the graph and have an idea of which countries have high (or low) Debt to GDP ratio for many years. Finally, your audience can also see the which countries have comparable ratios for the different years.
+
+Return to [Homepage](https://github.com/Toorel/Toorese-Portfolio)

@@ -10,5 +10,7 @@ I hope to learn the best way data can be used to convey and express intentions i
 # Portfolio
 This is my portfolio for future viewing
 ## Assignment 1
+This is a visualization showing debt to GDP ratio of various governments all over the world, and my subsequent critique. Click [here](https://toorel.github.io/Toorese-Portfolio/govtdataviz)
+
 ## Assignment 2
-## Final Project
+I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to critique a visualizzation from Visual Capital. Consequently, I wireframed a poential solution o the issues I found, tested the solution and drew up my own version of the visualization. Click [here](https://toorel.github.io/Toorese-Portfolio/critiqueviz)

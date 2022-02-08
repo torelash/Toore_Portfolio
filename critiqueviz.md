@@ -8,6 +8,8 @@ I decided to recreate this visualization instead of a more policy based one. Soc
 The names of the visualizations that I am critiquing from this website mentioned above is: “The Top 50 Most Visited Websites in the World”.
 
 This is the original visualization created by visual capital:
-![](https://www.visualcapitalist.com/wp-content/uploads/2021/01/Top_50_Websites_V4-2.jpg)
+<img src = "https://www.visualcapitalist.com/wp-content/uploads/2021/01/Top_50_Websites_V4-2.jpg" width = "100", height = "10">
+
+<!-- ![](https://www.visualcapitalist.com/wp-content/uploads/2021/01/Top_50_Websites_V4-2.jpg) -->
 
 ## Data Source

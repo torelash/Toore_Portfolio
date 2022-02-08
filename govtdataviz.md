@@ -12,6 +12,8 @@ An image showing government debt to GDP ratio can be seen below:
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8572294"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8567749"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 # Types of Visualization
 The first visualization is a simple bar chart. It simply shows the Debt to GDP for many countries. It is very effective. The one major drawback of this simple bar chart is the that there is no way of comparing the debt to GDP ratio over many years. Hence, can be limited when doing presentations or if you want to compare and contrast over a number of years.
 

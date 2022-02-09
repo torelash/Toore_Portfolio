@@ -65,11 +65,11 @@ The primary audience are most likely students or policymakers interested in know
 It was somewhat successful n evaluating the data. My first recommendation is to advocate for the removal of the values. It runs the risk of making people think we are talking about worth instead of worldwide visits. Secondly, the legend in the left hand side of the visualize should have been assigned colors based on the category of the ap. This will have been consistent with the color grading provided in other parts of the visualization.
 
 # Step 3: Wireframe a Solution
-For this solution, I removed the value and simply persisted with just the size. This helps my audience stick with the fact that I am talking generally about influence and not something else. In addition, I grouped the various app categories by colors. I also added the ability to be able to filter by country so we can have anidea of the biggest website visits by country.
+For this solution, I removed the value and simply persisted with just the size. This helps my audience stick with the fact that I am talking generally about influence and not something else. In addition, I also added the ability to be able to filter by country so we can have anidea of the biggest website visits by country.
 ![](https://github.com/Toorel/Toorese-Portfolio/blob/main/PXL_20220208_061129505.jpg)
 
 # Step 4: Test your Solution
-I tested my sketch with two individuals. The first individual said list of tech companies and their relative size. The second individual said tech apps we used the most. As expected, it was a bit of a stretch to expect them to know it was a ranking of websites. However, both participants were able to guess it was a graph about size and influence.
+I tested my sketch with two individuals. The first individual said it was a list of tech companies and their relative market cap. The second individual said it was a list of tech apps we used the most. As expected, it was a bit of a stretch to expect them to know it was a ranking of websites. However, both participants were able to guess it was a graph about size and influence.
 
 # Step 5: Build your Solution
 My redesigned visualization can be seen below

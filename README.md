@@ -14,3 +14,6 @@ This is a visualization showing debt to GDP ratio of various governments all ove
 
 ## Assignment 2
 I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to critique a visualizzation from Visual Capital. Consequently, I wireframed a poential solution o the issues I found, tested the solution and drew up my own version of the visualization. Click [here](https://toorel.github.io/Toorese-Portfolio/critiqueviz)
+
+## Final Project 1
+Here, I talked about the data I want to use for my final project, storyboarding and my initial sketches. Click [here](https://toorel.github.io/Toorese-Portfolio/finalprojectone)

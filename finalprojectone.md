@@ -28,6 +28,8 @@ Here’s an overview of the major elements of my story:
 2). Forecast of the Big Data Market in terms of Revenue
 3). Benefits of Big Data for Organizations (in terms of optimization/percentage terms for various organizations)
 4). Percentage of epople with masters degree
+![](PXL_20220214_043659329_2.jpg)
+![](PXL_20220214_043739410_2.jpg)
 
 ## The Data
 
@@ -44,5 +46,11 @@ I plan to draw out my actual storyboard to have an idea of what it look like. I 
 Medium
 
 I plan on using Shorthand for this project. I will use Shorthand to pull together text and visualizations into a coherent story. The headers within Shorthand will correspond to each of the major elements of my Storyboard, as outlined above.
+
+## References
+1 .United States Census Bureau (2019). _About 13.1 Percent Have a Master’s, Professional Degree or Doctorate_. https://www.census.gov/library/stories/2019/02/number-of-people-with-masters-and-phd-degrees-double-since-2000.html. Accessed February 12, 2022.
+
+2. Statista (2021). _Volume of data captured worldwide_. https://www.statista.com/statistics/871513/worldwide-data-created/. Accessed February 13, 2022.
+
 
 

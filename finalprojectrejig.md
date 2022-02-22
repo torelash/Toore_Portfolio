@@ -25,13 +25,10 @@ Here’s an overview of the major elements of my story:
 
 
 ## Initial Sketches
-1). Comparison of 4.4% of population with 30.2 % of world's opoid usage.
-2). Rise in usgae from 1990 to 2019.
-3). Rise in usage among various age groups.
-4). Impact of pharmaceuticals on FDA over the years.
-
-![](PXL_20220214_043659329_2.jpg)
-![](PXL_20220214_043739410_2.jpg)
+- Comparison of 4.4% of population with 30.2 % of world's opoid usage.
+- Rise in usgae from 1990 to 2019.
+- Rise in usage among various age groups.
+- Impact of pharmaceuticals on FDA over the years.
 
 ## The Data
 

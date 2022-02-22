@@ -30,6 +30,9 @@ Here’s an overview of the major elements of my story:
 - Rise in usage among various age groups.
 - Impact of pharmaceuticals on FDA over the years.
 
+![](PXL_20220222_221753789_2.jpg)
+![](PXL_20220222_221740329.MP_2.jpg)
+
 ## The Data
 
 The data souces I wll use are:

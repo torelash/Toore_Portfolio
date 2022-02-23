@@ -1,5 +1,5 @@
 
-# The Opoid Crisis in America
+# The Opioid Crisis in America
 
 ## Outline
 The purpose of this project is to talk about the opoid crisis in the United States, the rise over the years and possible reasons reasons for this rise in the use of opoids. My call to action will be "This is a big policy issue. I think we should find a solution and quick"

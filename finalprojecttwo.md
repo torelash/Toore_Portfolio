@@ -10,7 +10,7 @@ My feedback from user review made me realize that my topic was not well streamli
 
 I used Shorthand to do my project wireframe. I used shorthand because I wanted to make sure I was able to give myself and my audience an idea of what my presentation/website might look like. Based off the feedback I received, I linked my story to make it more coherent and added a structure to make sure it fulfilled the dtorytelling criteria. I had an idea of the kind of visualizations I wanted for each part of the topic. Hence, I showed certain flourished made graphs and certain hand sketched ones. This ensured that my interviwees were able to have a better understanding of the story I wanted to tell.
 
-This is a [link](https://shorthand.com/organisations/JSrgFWI7zn/stories/RE6SdRsB01) to my wireframe using Shorthand. I outlined the general structure of the story and will refine details as at when needed.
+This is a [link](https://preview.shorthand.com/aoI6fuTFkbjms82c) to my wireframe using Shorthand. I outlined the general structure of the story and will refine details as at when needed.
 
 ## User Research
 

@@ -19,7 +19,7 @@ I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perce
 Here, I talked about the data I want to use for my final project, storyboarding and my initial sketches. Click [here](https://toorel.github.io/Toorese-Portfolio/finalprojectone)
 
 ## Final Project 1
-My final project part 1 is lacking the necessary data to build a narative structure. hence, I decided to do a change of topic. My storyboarding and initial sketches for the new topic can be found here.
+My final project part 1 is lacking the necessary data to build a narative structure. hence, I decided to do a change of topic. My storyboarding and initial sketches for the new topic can be found [here](https://toorel.github.io/Toorese-Portfolio/finalprojectrejig).
 
 ## Final Project Part 2
-Here, I talk about my final project storyboard and user research
+[Here](https://toorel.github.io/Toorese-Portfolio/finalprojecttwo), I talk about my final project storyboard and user research

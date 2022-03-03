@@ -23,3 +23,5 @@ My final project part 1 is lacking the necessary data to build a narative struct
 
 ## Final Project Part 2
 [Here](https://toorel.github.io/Toorese-Portfolio/finalprojecttwo), I talk about my final project storyboard and user research
+
+## Final Project Part 3

@@ -43,3 +43,9 @@ https://theconversation.com/why-is-the-fda-funded-in-part-by-the-companies-it-re
 https://www2.itif.org/2017-pdufa-life-sciences-innovation.pdf
 
 Note: **Images used in the Shorthand were exclusively sourced from Unsplash**
+
+[Return to Part 1](https://toorel.github.io/Toorese-Portfolio/finalprojectrejig)
+
+[Return to Part 2](https://toorel.github.io/Toorese-Portfolio/finalprojecttwo)
+
+[Return to Homepage](https://toorel.github.io/Toorese-Portfolio/)

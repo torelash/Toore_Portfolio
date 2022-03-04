@@ -46,3 +46,8 @@ Apart from question 1, I decided to give a Yes or No answer to the feedback. Thi
 The feedback from my participants was very useful. However, I will find more people to provide more detailed feedback about the graph and in certain cases, more analysis is needed. Generally, it seems two of my participants understood the story I was trying to tell while one was a little indifferent. In addition, two of my participants felt the colors did not do a good job of conveying my intentions. I plan to adjust the colors and get feedback on both graphs from more participants.
 
 Finally, i plan to take another look at the structure and story-flow to make sure itis well linked together.
+
+
+[Return to Homepage](https://toorel.github.io/Toorese-Portfolio/)
+
+[Return to Part 1](https://toorel.github.io/Toorese-Portfolio/finalprojectrejig)

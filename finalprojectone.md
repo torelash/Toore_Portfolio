@@ -54,3 +54,4 @@ I plan on using Shorthand for this project. I will use Shorthand to pull togethe
 
 
 
+[Return to Homepage](https://toorel.github.io/Toorese-Portfolio/)

@@ -61,4 +61,5 @@ I plan on using Shorthand for this project. I will use Shorthand to pull togethe
 4). Stephen J Ezell (2017). _How the Prescription Drug User Fee Act Supports Life-Sciences Innovation and Speeds Cures_. https://www2.itif.org/2017-pdufa-life-sciences-innovation.pdf
 
 
+[Return to Homepage](https://toorel.github.io/Toorese-Portfolio/)
 

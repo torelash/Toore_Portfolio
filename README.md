@@ -22,6 +22,7 @@ Here, I talked about the data I want to use for my final project, storyboarding 
 My final project part 1 is lacking the necessary data to build a narative structure. hence, I decided to do a change of topic. My storyboarding and initial sketches for the new topic can be found [here](https://toorel.github.io/Toorese-Portfolio/finalprojectrejig).
 
 ## Final Project Part 2
-[Here](https://toorel.github.io/Toorese-Portfolio/finalprojecttwo), I talk about my final project storyboard and user research
+[Here](https://toorel.github.io/Toorese-Portfolio/finalprojecttwo), I talk about my change of topic, user research and feedback from my audience. In addition, I also briefly describe the next steps I will be taking to collate my work together.
 
 ## Final Project Part 3
+For my final part, I talked about the details of my topic. I also discussed certain changes made based on userfeedback in order to create a good end product. Click [here](https://toorel.github.io/Toorese-Portfolio/finalprojectthree)
